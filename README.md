@@ -1,3 +1,11 @@
+## n322 homework-two
+
+made this project using firebase, react, and bootstrap. Tried to mimic site from Martin Guitars
+
+## URL
+
+https://github.com/dixonj918/n322-homework-two
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

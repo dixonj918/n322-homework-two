@@ -1,0 +1,49 @@
+.aboutContainer {
+  width: 100%;
+  min-height: 600px;
+  /* background-color: antiquewhite; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.aboutContainer .text {
+  height: 100%;
+  width: 25%;
+
+  /* background-color: blue; */
+}
+
+.aboutContainer .text h1 {
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.aboutContainer .text h3 {
+  color: black;
+  font-weight: bold;
+}
+
+.aboutContainer .text p {
+  color: black;
+  text-align: center;
+}
+
+.aboutContainer .picture {
+  width: 50%;
+  height: 600px;
+  background-image: url(../images/aboutGuitar.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  .aboutContainer {
+    display: flex;
+    flex-direction: column;
+  }
+}

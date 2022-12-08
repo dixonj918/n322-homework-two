@@ -1,0 +1,40 @@
+.heroContainer {
+  width: 100%;
+  height: 85vh;
+  /* background-color: green; */
+  background-image: url(../images/guitarHero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.textContainer {
+  width: 500px;
+  height: 100%;
+  background-color: black;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding: 300px 50px;
+}
+
+.textContainer h1 {
+  color: white;
+  text-align: center;
+}
+
+.textContainer h4 {
+  text-align: center;
+  color: gainsboro;
+}
+
+.textContainer button {
+  background-color: green;
+  border: none;
+  padding: 5px 15px;
+  color: white;
+  border-radius: 30px;
+}

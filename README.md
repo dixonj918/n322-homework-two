@@ -4,7 +4,7 @@ made this project using firebase, react, and bootstrap. Tried to mimic site from
 
 ## URL
 
-https://github.com/dixonj918/n322-homework-two
+https://n322-homework-two-ea196.web.app/
 
 # Getting Started with Create React App
 
